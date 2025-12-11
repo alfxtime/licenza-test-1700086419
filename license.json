@@ -2,7 +2,7 @@
   "attivo": true,
   "scadenza": "2026-12-31",
   "nome": "Mario Rossi",
-  "messaggio": "Versione FULL attivata – Tutti i livelli inclusi",
+  "messaggio": "Versione FULL attivata",
   "files": [
     "https://raw.githubusercontent.com/alfxtime/ServerPM/refs/heads/main/ObjSync_Euro-ADR.txt",
     "https://raw.githubusercontent.com/alfxtime/ServerPM/refs/heads/main/ObjSync_Euro-AWeek.txt",
