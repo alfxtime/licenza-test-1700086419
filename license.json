@@ -2,5 +2,21 @@
   "attivo": true,
   "scadenza": "2026-12-31",
   "nome": "Mario Rossi",
-  "note": "Abbonamento mensile"
+  "messaggio": "Versione FULL attivata – Tutti i livelli inclusi",
+  "files": [
+    "https://raw.githubusercontent.com/alfxtime/ServerPM/refs/heads/main/ObjSync_Euro-ADR.txt",
+    "https://raw.githubusercontent.com/alfxtime/ServerPM/refs/heads/main/ObjSync_Euro-AWeek.txt",
+    "https://raw.githubusercontent.com/alfxtime/ServerPM/refs/heads/main/ObjSync_Euro-TimeMens.txt",
+    "https://raw.githubusercontent.com/alfxtime/ServerPM/refs/heads/main/ObjSync_Gold-ADR.txt",
+    "https://raw.githubusercontent.com/alfxtime/ServerPM/refs/heads/main/ObjSync_SP-ADR.txt",
+    "https://raw.githubusercontent.com/alfxtime/ServerPM/refs/heads/main/ObjSync_Sp-AWeek.txt",
+    "https://raw.githubusercontent.com/alfxtime/ServerPM/refs/heads/main/ObjSync_Sp-TimeMens.txt",
+    "https://raw.githubusercontent.com/alfxtime/ServerPM/refs/heads/main/SpreadSync_Euro-ADR.txt",
+    "https://raw.githubusercontent.com/alfxtime/ServerPM/refs/heads/main/SpreadSync_Euro-AWeek.txt",
+    "https://raw.githubusercontent.com/alfxtime/ServerPM/refs/heads/main/SpreadSync_Euro-TimeMens.txt",
+    "https://raw.githubusercontent.com/alfxtime/ServerPM/refs/heads/main/SpreadSync_Gold-ADR.txt",
+    "https://raw.githubusercontent.com/alfxtime/ServerPM/refs/heads/main/SpreadSync_SP-ADR.txt",
+    "https://raw.githubusercontent.com/alfxtime/ServerPM/refs/heads/main/SpreadSync_Sp-AWeek.txt",
+    "https://raw.githubusercontent.com/alfxtime/ServerPM/refs/heads/main/SpreadSync_Sp-TimeMens.txt"
+  ]
 }
